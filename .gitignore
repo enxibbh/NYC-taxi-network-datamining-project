@@ -1,0 +1,17 @@
+# Python virtual environment
+.venv/
+venv/
+
+# NYC Taxi datasets
+data/
+*.parquet
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Python cache
+__pycache__/
+*.pyc
+
+# macOS
+.DS_Store
